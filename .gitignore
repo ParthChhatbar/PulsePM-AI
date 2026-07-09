@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+logs/*.log
+output/
+validation_output/
+smoke_output/
+final_smoke_output/
+final_evidence_output/
+evidence_smoke_output/
+evidence_smoke_output2/
+data/*.xlsx
+data/*.xls
+data/*.xlsm
+.streamlit/secrets.toml
