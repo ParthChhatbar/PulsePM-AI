@@ -223,7 +223,7 @@ Provides supporting analytics including:
 
 # 📊 Executive Presentation
 
-<img src="screenshots/project_spotlight_ppt.png" width="100%">
+<img src="screenshots/Screenshot 2026-07-10 133037.png" width="100%">
 
 PulsePM AI automatically generates a management-ready PowerPoint presentation from the analyzed project portfolio.
 
