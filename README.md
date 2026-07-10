@@ -219,6 +219,27 @@ Provides supporting analytics including:
 
 ---
 
+---
+
+# 📊 Executive Presentation
+
+<img src="screenshots/project_spotlight_ppt.png" width="100%">
+
+PulsePM AI automatically generates a management-ready PowerPoint presentation from the analyzed project portfolio.
+
+The presentation is designed for project sponsors, PMO leadership, and executive stakeholders, requiring minimal manual edits before sharing.
+
+The generated presentation includes:
+
+- 📈 Portfolio Health Summary
+- 🚦 RAG Distribution Across Projects
+- ⚠️ Emerging Risks
+- 📊 Trend Analysis
+- 🎯 Leadership Recommendations
+- 🌟 Project Spotlight (Best Performing & Highest Risk Projects)
+
+This significantly reduces the manual effort required to prepare weekly and monthly executive review decks.
+
 # 📂 Project Workflow
 
 ```text
