@@ -217,9 +217,28 @@ Provides supporting analytics including:
 - Missing Data Handling
 - Evidence-based Charts
 
----
 
 ---
+
+# 📈 Monthly Executive Report
+
+<img src="screenshots/Screenshot 2026-07-10 134013.png" width="100%">
+
+PulsePM AI consolidates all weekly project analyses into a portfolio-level monthly executive report.
+
+Rather than summarizing projects individually, the monthly synthesis identifies organization-wide trends and provides executive-level decision support.
+
+### The report automatically highlights:
+
+- 📊 Portfolio Health Distribution
+- 📈 Cross-Project Trend Analysis
+- 🚨 Emerging Risk Themes
+- 📌 Recurring Blockers
+- 📉 Projects Improving vs. Declining
+- 🎯 Executive Recommendations
+- 👥 Leadership Attention Areas
+
+The monthly report is generated automatically from historical weekly reports, enabling leadership to monitor portfolio health over time instead of reviewing isolated project snapshots.
 
 # 📊 Executive Presentation
 
